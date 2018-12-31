@@ -55,3 +55,16 @@ record = ('ACME', 50, 123.45, (12, 18, 2012))
 name, *_, (*_, year) = record
 print(name)
 print(year)
+
+items = [1, 10, 7, 4, 5, 9]
+head, *tail = items
+print(head)
+print(tail)
+
+
+def sum(items):
+    head, *tail = items
+    return head + sum(tail) if tail else head
+
+
+print(sum(items))
