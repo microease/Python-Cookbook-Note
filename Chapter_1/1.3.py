@@ -13,7 +13,7 @@ def search(lines, pattern, history=5):
 
 
 # if __name__ == '__main__':
-#     with open(r'../Chapter 1/somefile.txt') as f:
+#     with open(r'../Chapter_1/somefile.txt') as f:
 #         for line, prevlines in search(f, 'python', 5):
 #             print("line:" + line)
 #             print("prevlines:" + str(prevlines))
