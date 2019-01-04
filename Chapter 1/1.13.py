@@ -11,3 +11,8 @@ rows_by_fname = sorted(rows, key=itemgetter('fname'))
 rows_by_uid = sorted(rows, key=itemgetter('uid'))
 print(rows_by_fname)
 print(rows_by_uid)
+
+rows_by_fname1 = sorted(rows, key=lambda r: r['fname'])
+rows_by_lfname = sorted(rows, key=lambda r: (r['lname'], r['fname']))
+print(rows_by_fname1)
+print(rows_by_lfname)
