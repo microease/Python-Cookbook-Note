@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d26224e-103e-4124-97c6-a059216bf530" name="默认" comment="" />
+    <list default="true" id="9d26224e-103e-4124-97c6-a059216bf530" name="默认" comment="">
+      <change beforePath="$PROJECT_DIR$/Chapter_3/3.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3.6.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,7 @@
     <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_11.coverage" NAME="2.11 Coverage Results" MODIFIED="1546745060924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
     <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_8.coverage" NAME="2.8 Coverage Results" MODIFIED="1546697449104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
     <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_1.coverage" NAME="3.1 Coverage Results" MODIFIED="1546919265774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_6.coverage" NAME="3.6 Coverage Results" MODIFIED="1546928783459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
     <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_10.coverage" NAME="2.10 Coverage Results" MODIFIED="1546698792043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
     <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_14.coverage" NAME="2.14 Coverage Results" MODIFIED="1546746129913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
     <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_20.coverage" NAME="2.20 Coverage Results" MODIFIED="1546916015341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
@@ -40,7 +43,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter_3/3.6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,12 +81,12 @@
         <option value="$PROJECT_DIR$/Chapter_2/2.15.py" />
         <option value="$PROJECT_DIR$/Chapter_2/2.20.py" />
         <option value="$PROJECT_DIR$/Chapter_2/2.19.py" />
-        <option value="$PROJECT_DIR$/Chapter_3/3.6.py" />
         <option value="$PROJECT_DIR$/Chapter_3/3.1.py" />
         <option value="$PROJECT_DIR$/Chapter_3/3.2.py" />
         <option value="$PROJECT_DIR$/Chapter_3/3.3.py" />
         <option value="$PROJECT_DIR$/Chapter_3/3.4.py" />
         <option value="$PROJECT_DIR$/Chapter_3/3.5.py" />
+        <option value="$PROJECT_DIR$/Chapter_3/3.6.py" />
       </list>
     </option>
   </component>
@@ -97,6 +110,11 @@
             <path>
               <item name="Python-Cookbook-Note" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Cookbook-Note" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Cookbook-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Cookbook-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,29 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3.5">
-    <configuration name="3.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Cookbook-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_3/3.1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.3.6">
     <configuration name="3.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Cookbook-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,13 +233,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="3.6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Cookbook-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_3/3.6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3.6" />
         <item itemvalue="Python.3.5" />
         <item itemvalue="Python.3.4" />
         <item itemvalue="Python.3.3" />
         <item itemvalue="Python.3.2" />
-        <item itemvalue="Python.3.1" />
       </list>
     </recent_temporary>
   </component>
@@ -261,21 +279,23 @@
       <workItem from="1546744648273" duration="1876000" />
       <workItem from="1546911458516" duration="4534000" />
       <workItem from="1546918781711" duration="3010000" />
+      <workItem from="1546928275489" duration="505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13005000" />
+    <option name="totallyTimeSpent" value="13510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="887" y="0" width="1033" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2004111" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2045221" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.059770115" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3291714" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291714" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -456,7 +476,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_3/3.6.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
