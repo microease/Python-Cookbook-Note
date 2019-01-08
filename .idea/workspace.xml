@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d26224e-103e-4124-97c6-a059216bf530" name="默认" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python-Cookbook-Note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Cookbook-Note.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3.10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3.8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3.9.py" afterDir="false" />
-    </list>
+    <list default="true" id="9d26224e-103e-4124-97c6-a059216bf530" name="默认" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +45,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,6 +100,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,7 +117,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,16 +279,17 @@
       <workItem from="1546928275489" duration="686000" />
       <workItem from="1546930731744" duration="2273000" />
       <workItem from="1546950326677" duration="1854000" />
+      <workItem from="1546958512339" duration="339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17818000" />
+    <option name="totallyTimeSpent" value="18157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="887" y="23" width="1033" height="974" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21233569" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21233569" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
