@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d26224e-103e-4124-97c6-a059216bf530" name="默认" comment="">
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3.5.py" afterDir="false" />
-    </list>
+    <list default="true" id="9d26224e-103e-4124-97c6-a059216bf530" name="默认" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,12 +275,12 @@
       <workItem from="1546695012559" duration="3585000" />
       <workItem from="1546744648273" duration="1876000" />
       <workItem from="1546911458516" duration="4534000" />
-      <workItem from="1546918781711" duration="2534000" />
+      <workItem from="1546918781711" duration="2781000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12529000" />
+    <option name="totallyTimeSpent" value="12776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="887" y="0" width="1033" height="1040" extended-state="0" />
