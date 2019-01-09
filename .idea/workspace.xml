@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d26224e-103e-4124-97c6-a059216bf530" name="默认" comment="">
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3.11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3.12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3/3.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3.13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter_3/3.14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3.14.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter_3/3.14.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="56">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -302,12 +299,12 @@
       <workItem from="1546930731744" duration="2273000" />
       <workItem from="1546950326677" duration="1854000" />
       <workItem from="1546958512339" duration="339000" />
-      <workItem from="1546999897102" duration="4849000" />
+      <workItem from="1546999897102" duration="5284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23006000" />
+    <option name="totallyTimeSpent" value="23441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="887" y="23" width="1033" height="974" extended-state="0" />
@@ -318,7 +315,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.059770115" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32760736" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32760736" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -532,8 +529,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_3/3.14.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="56">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
