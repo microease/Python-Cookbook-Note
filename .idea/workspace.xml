@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d26224e-103e-4124-97c6-a059216bf530" name="默认" comment="" />
+    <list default="true" id="9d26224e-103e-4124-97c6-a059216bf530" name="默认" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Python-Cookbook-Note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Cookbook-Note.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_3/3.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/3.11.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,26 +14,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_8.coverage" NAME="2.8 Coverage Results" MODIFIED="1546697449104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_3.coverage" NAME="3.3 Coverage Results" MODIFIED="1546919952198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_9.coverage" NAME="3.9 Coverage Results" MODIFIED="1546957152946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_1.coverage" NAME="3.1 Coverage Results" MODIFIED="1546919265774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_10.coverage" NAME="3.10 Coverage Results" MODIFIED="1546958385186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_13.coverage" NAME="2.13 Coverage Results" MODIFIED="1546745956792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_4.coverage" NAME="3.4 Coverage Results" MODIFIED="1546921002199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_10.coverage" NAME="2.10 Coverage Results" MODIFIED="1546698792043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_11.coverage" NAME="2.11 Coverage Results" MODIFIED="1546745060924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_8.coverage" NAME="3.8 Coverage Results" MODIFIED="1546956890298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
     <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_2.coverage" NAME="3.2 Coverage Results" MODIFIED="1546919949808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_5.coverage" NAME="3.5 Coverage Results" MODIFIED="1546921309259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_14.coverage" NAME="2.14 Coverage Results" MODIFIED="1546746129913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_7.coverage" NAME="2.7 Coverage Results" MODIFIED="1546695323921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_20.coverage" NAME="2.20 Coverage Results" MODIFIED="1546916015341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_9.coverage" NAME="2.9 Coverage Results" MODIFIED="1546698790599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
-    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_7.coverage" NAME="3.7 Coverage Results" MODIFIED="1546939592522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_8.coverage" NAME="3.8 Coverage Results" MODIFIED="1546956890298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
     <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_12.coverage" NAME="2.12 Coverage Results" MODIFIED="1546745775669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_5.coverage" NAME="3.5 Coverage Results" MODIFIED="1546921309259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_7.coverage" NAME="2.7 Coverage Results" MODIFIED="1546695323921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
     <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_15.coverage" NAME="2.15 Coverage Results" MODIFIED="1546746385788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_13.coverage" NAME="2.13 Coverage Results" MODIFIED="1546745956792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_3.coverage" NAME="3.3 Coverage Results" MODIFIED="1546919952198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_9.coverage" NAME="2.9 Coverage Results" MODIFIED="1546698790599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_4.coverage" NAME="3.4 Coverage Results" MODIFIED="1546921002199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_7.coverage" NAME="3.7 Coverage Results" MODIFIED="1546939592522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_11.coverage" NAME="2.11 Coverage Results" MODIFIED="1546745060924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_8.coverage" NAME="2.8 Coverage Results" MODIFIED="1546697449104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_1.coverage" NAME="3.1 Coverage Results" MODIFIED="1546919265774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_9.coverage" NAME="3.9 Coverage Results" MODIFIED="1546957152946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
     <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_6.coverage" NAME="3.6 Coverage Results" MODIFIED="1546928783459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_10.coverage" NAME="2.10 Coverage Results" MODIFIED="1546698792043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_14.coverage" NAME="2.14 Coverage Results" MODIFIED="1546746129913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$2_20.coverage" NAME="2.20 Coverage Results" MODIFIED="1546916015341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2" />
+    <SUITE FILE_PATH="coverage/Python_Cookbook_Note$3_10.coverage" NAME="3.10 Coverage Results" MODIFIED="1546958385186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -45,7 +50,26 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_3/3.10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter_3/3.11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,6 +107,7 @@
         <option value="$PROJECT_DIR$/Chapter_3/3.8.py" />
         <option value="$PROJECT_DIR$/Chapter_3/3.9.py" />
         <option value="$PROJECT_DIR$/Chapter_3/3.10.py" />
+        <option value="$PROJECT_DIR$/Chapter_3/3.11.py" />
       </list>
     </option>
   </component>
@@ -280,16 +305,18 @@
       <workItem from="1546930731744" duration="2273000" />
       <workItem from="1546950326677" duration="1854000" />
       <workItem from="1546958512339" duration="339000" />
+      <workItem from="1546999897102" duration="2056000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18157000" />
+    <option name="totallyTimeSpent" value="20213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="887" y="23" width="1033" height="974" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21233569" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2168551" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -418,9 +445,6 @@
     <entry file="file://$PROJECT_DIR$/Chapter_3/3.12.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_3/3.11.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_3/3.14.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -483,6 +507,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_3/3.9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_3/3.10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -490,10 +521,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_3/3.9.py">
+    <entry file="file://$PROJECT_DIR$/Chapter_3/3.11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="56">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
