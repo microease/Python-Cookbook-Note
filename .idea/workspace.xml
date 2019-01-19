@@ -305,12 +305,12 @@
       <workItem from="1547520621231" duration="1156000" />
       <workItem from="1547525163100" duration="600000" />
       <workItem from="1547717107917" duration="429000" />
-      <workItem from="1547777780802" duration="5187000" />
+      <workItem from="1547777780802" duration="5193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39587000" />
+    <option name="totallyTimeSpent" value="39593000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -329,7 +329,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.059770115" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32581738" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32581738" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
